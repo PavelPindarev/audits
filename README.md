@@ -7,7 +7,7 @@ A portfolio to store all audits from public contests and private contests!
 ## [Code Arena](https://code4rena.com/@pindarev)
 | Protocol | Type | My findings | My report | Date | More |
 |----------|------|-------------|-----------|------|------|
-| [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | Stablecoin | 1M | Soon | 02.2025 |  |
+| [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | Stablecoin | 1M | [Open](https://code4rena.com/audits/2025-01-next-generation/submissions/S-793) | 02.2025 |  |
 
 ## Contacts
 - [Twitter](https://x.com/ppindarew)
