@@ -8,7 +8,7 @@ There are more updates incoming soon!
 ## [Sherlock](https://audits.sherlock.xyz/watson/pindarev)
 | Protocol | Type | My findings | My report | Date | More |
 |----------|------|-------------|-----------|------|------|
-|[Neutrl Protocol](https://audits.sherlock.xyz/contests/1065) | Yield Staking | 1 Medium | [Open](./contests/sherlock/neutrl.md) | 08.2025 | 1st place |
+|[Neutrl Protocol](https://audits.sherlock.xyz/contests/1065) | Yield Staking | 1 Medium | [Open](./contests/sherlock/neutrl.md) | 08.2025 | 🥇1st place (100% bugs coverage) |
 |[Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171) | UniswapV4 Hook | 2 High | [Open](./contests/sherlock/superdca-liquiditynetwork.md) | 09.2025 |  |
 
 
