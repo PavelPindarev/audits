@@ -6,11 +6,11 @@
 - Proven experience identifying high-impact vulnerabilities in lending, yield, and DeFi protocol designs.
 - Former Web Developer (2.5+ years), bringing a practical, attacker-aware engineering mindset to audits.
 
-## Contacts
+## 🤝 Contacts
 - [X/Twitter](https://x.com/ppindarew)
 - [Telegram](https://t.me/pindarev)
 
-# Public Contests
+# ⚔️ Public Contests
 
 | Date    | Protocol                                                                                         | Type                 | Findings   | Report                                                | More                                           |
 | ------- | ------------------------------------------------------------------------------------------------ | -------------------- | ---------- | ----------------------------------------------------- | ---------------------------------------------  |
@@ -19,7 +19,7 @@
 | 08.2025 | [Neutrl Protocol](https://audits.sherlock.xyz/contests/1065)                                     | Yield Staking        | 1 Medium   | [📄](./contests/sherlock/neutrl.md)                    | 🥇1st place (100% bugs coverage)              |
 | 01.2025 | [Next Generation](https://code4rena.com/audits/2025-01-next-generation)                          | Stablecoin           | 1 Medium   | [📄](./contests/codearena/nextgeneration.md)           |                                               |
 
-# Private audits
+# ⚔️ Private audits
 
 | Date    | Protocol                                     | Type           | Report                                                                                                                    | Provider                                |
 | ------- | -------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
