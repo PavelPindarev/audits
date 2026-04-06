@@ -1,5 +1,3 @@
-# Valid Findings:
-
 ## Role Consistency Invariant is Broken - FULL_RESTRICTED Users Can Transfer via Deposit/Mint
 
 ### Summary

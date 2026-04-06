@@ -1,5 +1,3 @@
-# Valid Findings:
-
 ## DoS in `SuperDCAListing::collectFees` when Uniswap V4 pool involves native ETH
 
 ### Severity

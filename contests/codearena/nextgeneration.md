@@ -1,6 +1,4 @@
-# Valid Findings:
-
-### Lack of deadline check in `Forwareder::ForwardRequest`
+## Lack of deadline check in `Forwareder::ForwardRequest`
 
 **Codearena link:** [Open](https://code4rena.com/audits/2025-01-next-generation/submissions/S-793)
 
