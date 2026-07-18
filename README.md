@@ -12,6 +12,11 @@ Helped secure protocols like Alchemix, Mystic Finance & Reserve · 🥇 1st plac
 
 ---
 
+> _"Pindarev audited BarkSwap for us — found a critical reward-theft bug and a high, then re-reviewed every fix after we patched. Straight on severity, clear communication, no fluff. We'd work with him again."_
+> — **Damien (CEO) & Valentin (CTO), Sofa Labs** ([BarkSwap](https://www.barkswap.fi/swap))
+
+---
+
 ## ⚔️ Private Engagements
 *Private security reviews for protocol teams — direct solo engagements and audits sourced through partner firms.*
 
