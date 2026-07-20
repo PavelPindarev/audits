@@ -15,6 +15,9 @@ Helped secure protocols like Alchemix, Mystic Finance & Reserve · 🥇 1st plac
 > _"Pindarev audited BarkSwap for us — found a critical reward-theft bug and a high, then re-reviewed every fix after we patched. Straight on severity, clear communication, no fluff. We'd work with him again."_
 > — **Damien (CEO) & Valentin (CTO), Sofa Labs** ([BarkSwap](https://www.barkswap.fi/swap))
 
+> _"Pindarev did a solo security review of our Tulpea yield vault and its strategies (ERC-4626/7540). Deep on the accounting and the edge cases, calibrated on severity, and clear, direct communication throughout. Genuinely knows vault mechanics — would happily bring him in again."_
+> — **Not Your Banker** ([@Not_Your_Bank](https://x.com/Not_Your_Bank)), [Tulpea](https://tulpea.org/)
+
 ---
 
 ## ⚔️ Private Engagements
