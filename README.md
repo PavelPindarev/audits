@@ -12,11 +12,16 @@ Helped secure protocols like Alchemix, Mystic Finance & Reserve · 🥇 1st plac
 
 ---
 
+## 💬 Testimonials
+
 > _"Pindarev audited BarkSwap for us — found a critical reward-theft bug and a high, then re-reviewed every fix after we patched. Straight on severity, clear communication, no fluff. We'd work with him again."_
 > — **Damien (CEO) & Valentin (CTO), Sofa Labs** ([BarkSwap](https://www.barkswap.fi/swap))
 
 > _"Pindarev did a solo security review of our Tulpea yield vault and its strategies (ERC-4626/7540). Deep on the accounting and the edge cases, calibrated on severity, and clear, direct communication throughout. Genuinely knows vault mechanics — would happily bring him in again."_
 > — **Not Your Banker** ([@Not_Your_Bank](https://x.com/Not_Your_Bank)), [Tulpea](https://tulpea.org/)
+
+> _"The report was clean, well-scoped, and the PoC made reproduction straightforward, which is exactly how this should go. The calibration was genuinely good work — the two self-downgrades and the explicit rejected-leads list made this fast to validate."_
+> — **ClaimRush Security** ([ClaimRush](https://claimru.sh))
 
 ---
 
@@ -25,6 +30,7 @@ Helped secure protocols like Alchemix, Mystic Finance & Reserve · 🥇 1st plac
 
 | 📅 Date        | Protocol                                     | Type                  | Findings                                 | 🔗 Report                                                                                                                  | 💼 Source                               |
 | ------------- | -------------------------------------------- | --------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| July 2026     | [ClaimRush](https://claimru.sh)              | ve-Lock · Mining · AMM | 3 Med · 1 Low · 4 Info                  | [📄](/solo-audits-reports/ClaimRush-Security-Review-Final-26-07-2026.pdf)                                                  | Solo Audit                             |
 | June 2026     | [BarkSwap](https://www.barkswap.fi/swap)     | ve(3,3) DEX           | 1 Crit · 1 High · 1 Med · 5 Low · 5 Info | [📄](/solo-audits-reports/BarkSwap-Security-Final-Review-06-07-2026.pdf)                                                   | Solo Audit                             |
 | May 2026      | [Tulpea](https://tulpea.org/)                | Vault (ERC-4626/7540) | _Private_                                | _Private_                                                                                                                 | Solo Audit                             |
 | May 2026      | [Castr.fun](https://castr.fun/)              | Token Launchpad       | 4 High · 4 Med · 3 Low · 2 Info          | _Publishing soon_                                                                                                         | [Kann Audits](https://kannaudits.com/) |
