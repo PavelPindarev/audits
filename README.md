@@ -30,6 +30,7 @@ Helped secure protocols like Alchemix, Mystic Finance & Reserve · 🥇 1st plac
 
 | 📅 Date        | Protocol                                     | Type                   | Findings                                 | 🔗 Report                                                                                                                  | 💼 Source                               |
 | ------------- | -------------------------------------------- | ---------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| October 2026  | _Soon_                                       | _Soon_                 | _Soon_                                   | _Soon_                                                                                                                    | Solo Audit                             |
 | July 2026     | [ClaimRush](https://claimru.sh)              | ve-Lock · Mining · AMM | 3 Med · 1 Low · 4 Info                   | [📄](/solo-audits-reports/ClaimRush-Security-Final-Review-26-07-2026.pdf)                                                  | Solo Audit                             |
 | June 2026     | [BarkSwap](https://www.barkswap.fi/swap)     | ve(3,3) DEX            | 1 Crit · 1 High · 1 Med · 5 Low · 5 Info | [📄](/solo-audits-reports/BarkSwap-Security-Final-Review-06-07-2026.pdf)                                                   | Solo Audit                             |
 | May 2026      | [Tulpea](https://tulpea.org/)                | Vault (ERC-4626/7540)  | _Private_                                | _Private_                                                                                                                 | Solo Audit                             |
@@ -40,15 +41,16 @@ Helped secure protocols like Alchemix, Mystic Finance & Reserve · 🥇 1st plac
 
 ## 🏆 Public Contest Achievements
 *Only contests with confirmed findings and on-chain rewards are listed.*
-| 📅 Date         | Protocol                                                                                         | Type                         | Findings   | 🔗 Report                                              | Highlights                                |
-| -------------- | ------------------------------------------------------------------------------------------------ | ---------------------------- | ---------- | ----------------------------------------------------- | ----------------------------------------- |
-| August 2026    | [Firelight](https://immunefi.com/audit-competition/audit-comp-firelight-1/information/)          | Yield Aggregator, Vault      | 1 High     | [📄](./contests/immunefi/firelight.md)            |                                           |
-| June 2026      | [Reserve Governor](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview)       | Governance, Yield Aggregator | 1 Medium   | [📄](./contests/cantina/reservegovernor.md)            | 7th place                                 |
-| March 2026     | [Current Finance](https://audits.sherlock.xyz/contests/1256)                                     | Lending                      | 1 High     | [📄](./contests/sherlock/current-sui.md)               |                                           |
-| November 2025  | [Alchemix V3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/) | Yield-Backed Lending         | 2 Critical | [📄](./contests/immunefi/alchemixV3.md)                | More findings than submission cap allowed |
-| September 2025 | [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)                         | UniswapV4 Hook               | 2 High     | [📄](./contests/sherlock/superdca-liquiditynetwork.md) |                                           |
-| August 2025    | [Neutrl Protocol](https://audits.sherlock.xyz/contests/1065)                                     | Yield Staking                | 1 Medium   | [📄](./contests/sherlock/neutrl.md)                    | 🥇 1st place · 100% bug coverage           |
-| January 2025   | [Next Generation](https://code4rena.com/audits/2025-01-next-generation)                          | Stablecoin                   | 1 Medium   | [📄](./contests/codearena/nextgeneration.md)           |                                           |
+| 📅 Date         | Protocol                                                                                             | Type                         | Findings              | 🔗 Report                                              | Highlights                                |
+| -------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------- | --------------------- | ----------------------------------------------------- | ----------------------------------------- |
+| September 2026 | [RAIN-USDR](https://hackenproof.com/audit-programs/rain-usdr-smart-contract-audit-contest-sept-2026) | Stablecoin                   | 5 High, 2 Med, 1 Info | _Soon_                                                |                                           |
+| August 2026    | [Firelight](https://immunefi.com/audit-competition/audit-comp-firelight-1/information/)              | Yield Aggregator, Vault      | 1 High                | [📄](./contests/immunefi/firelight.md)                 |                                           |
+| June 2026      | [Reserve Governor](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview)           | Governance, Yield Aggregator | 1 Medium              | [📄](./contests/cantina/reservegovernor.md)            | 7th place                                 |
+| March 2026     | [Current Finance](https://audits.sherlock.xyz/contests/1256)                                         | Lending                      | 1 High                | [📄](./contests/sherlock/current-sui.md)               |                                           |
+| November 2025  | [Alchemix V3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/)     | Yield-Backed Lending         | 2 Critical            | [📄](./contests/immunefi/alchemixV3.md)                | More findings than submission cap allowed |
+| September 2025 | [Super DCA Liquidity Network](https://audits.sherlock.xyz/contests/1171)                             | UniswapV4 Hook               | 2 High                | [📄](./contests/sherlock/superdca-liquiditynetwork.md) |                                           |
+| August 2025    | [Neutrl Protocol](https://audits.sherlock.xyz/contests/1065)                                         | Yield Staking                | 1 Medium              | [📄](./contests/sherlock/neutrl.md)                    | 🥇 1st place · 100% bug coverage           |
+| January 2025   | [Next Generation](https://code4rena.com/audits/2025-01-next-generation)                              | Stablecoin                   | 1 Medium              | [📄](./contests/codearena/nextgeneration.md)           |                                           |
 
 ---
 
@@ -65,5 +67,6 @@ A **solo security review** delivers a detailed report — every finding with sev
 ## Public Platform Profiles
 - [Sherlock](https://audits.sherlock.xyz/watson/pindarev)
 - [Immunefi](https://immunefi.com/profile/pindarev/)
+- [HackenProof](https://hackenproof.com/hackers/pindarew)
 - [Code4rena](https://code4rena.com/@pindarev)
 - [Cantina](https://cantina.xyz/u/pindarev)
