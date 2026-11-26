@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pindarev — Web3 Security Researcher
+# Pindarev — Smart Contract Security Researcher
 
 **Finding high-impact logic, accounting, and oracle bugs across DeFi, lending, yield, and cross-chain protocols — on EVM & Sui Move.**
 
@@ -57,7 +57,7 @@ Helped secure protocols like Alchemix, Mystic Finance & Reserve · 🥇 1st plac
 
 ## 💼 About & engagements
 
-~1.5 years as a Web3 security researcher (since early 2025), with 2.5+ years as a Web2 engineer beforehand — a practical, attacker-aware engineering mindset on every review. I focus on high-impact logic, accounting, and oracle bugs across DeFi, lending, and yield designs, on **EVM (Solidity)** and **Sui Move**.
+~1.5 years as a Smart Contract Security Researcher (since early 2025), with 2.5+ years as a Software engineer beforehand — a practical, attacker-aware engineering mindset on every review. I focus on high-impact logic, accounting, and oracle bugs across DeFi, lending, and yield designs, on **EVM (Solidity)** and **Sui Move**.
 
 A **solo security review** delivers a detailed report — every finding with severity, root cause, attack path, a **runnable PoC**, and a concrete mitigation — plus a **fix-review** of your patches once you've remediated. Direct, async communication throughout.
 
